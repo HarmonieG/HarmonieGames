@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @waku12
+- 👀 I’m interested in gamedev and Unity3D
+- 🌱 I’m currently learning C#
